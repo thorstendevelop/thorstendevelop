@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thorstendevelop
+- 👀 I’m interested in karate
+- 🌱 I’m currently learning C#, .NET and Blazor/Razor
+- 💞️ I’m looking to collaborate on my spare time
+- 📫 How to reach me visit <a href="https://thorstentimmermans.nl">Click me</a>
